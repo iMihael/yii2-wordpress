@@ -1,5 +1,5 @@
 {
-    "name": "monitorbacklinks/yii2-wordpress",
+    "name": "imihael/yii2-wordpress",
     "description": "Yii2 component for integration with Wordpress CMS via XML-RPC API",
     "homepage": "http://monitorbacklinks.github.io/yii2-wordpress/",
     "keywords": ["yii", "yii2", "wordpress", "xml-rpc", "xmlrpc", "wp", "integration"],
